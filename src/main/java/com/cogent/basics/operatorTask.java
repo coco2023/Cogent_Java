@@ -28,10 +28,7 @@ public class operatorTask {
 		System.out.print("true || false & true: ");
 		System.out.println(true || false & true);
 
-
-
-
-		
+		System.out.println("success!");	
 		
 
 	}
