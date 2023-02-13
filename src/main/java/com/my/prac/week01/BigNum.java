@@ -67,13 +67,11 @@ public class BigNum {
 		for (int i = 0; i<vowel.length; i++) {
 			if (charactor == vowel[i]) {
 				return true;
+				
 			}
 		}
 		return false;
 		
 	}
-	
-	
-	
-	
+		
 }
